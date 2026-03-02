@@ -1,0 +1,33 @@
+<svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Antenna ball -->
+  <circle cx="60" cy="8" r="6" fill="#1a73e8"/>
+
+  <!-- Antenna stem -->
+  <line x1="60" y1="14" x2="60" y2="28" stroke="#1a73e8" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Main head circle/oval -->
+  <ellipse cx="60" cy="68" rx="42" ry="40" stroke="#1a73e8" stroke-width="5" fill="none"/>
+
+  <!-- Left ear - capsule shape -->
+  <rect x="8" y="52" width="14" height="32" rx="7" stroke="#1a73e8" stroke-width="5" fill="none"/>
+
+  <!-- Right ear - capsule shape -->
+  <rect x="98" y="52" width="14" height="32" rx="7" stroke="#1a73e8" stroke-width="5" fill="none"/>
+
+  <!-- Visor band - ellipse across face -->
+  <ellipse cx="60" cy="62" rx="38" ry="16" stroke="#1a73e8" stroke-width="5" fill="white"/>
+
+  <!-- Three dots on visor -->
+  <circle cx="40" cy="62" r="6" fill="#1a73e8"/>
+  <circle cx="60" cy="62" r="6" fill="#1a73e8"/>
+  <circle cx="80" cy="62" r="6" fill="#1a73e8"/>
+
+  <!-- Smile -->
+  <path
+    d="M42 90 Q60 105, 78 90"
+    stroke="#1a73e8"
+    stroke-width="5"
+    stroke-linecap="round"
+    fill="none"
+  />
+</svg>
