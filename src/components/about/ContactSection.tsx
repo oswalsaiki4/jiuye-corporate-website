@@ -13,7 +13,7 @@ const contactInfo = [
     icon: Phone,
     title: "咨询热线",
     titleEn: "Hotline",
-    value: "400-888-9988",
+    value: "4000015525",
     description: "工作日 9:00-18:00",
   },
   {
