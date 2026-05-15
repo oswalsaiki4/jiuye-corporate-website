@@ -1,10 +1,17 @@
 # Jiuye Corporate Website - Development Todos
 
-## ✅ Project Complete - Deployed!
+## ✅ 项目完成 - 已部署!
 
-**Live URL**: https://same-ki5qega37hs-latest.netlify.app
+**Live URL**: https://ki5qega37hs.netlify.app
+**GitHub**: https://github.com/oswalsaiki4/jiuye-corporate-website
 
-### Deployment (Version 42)
+### 最新更新 (Version 43)
+- [x] 更新400电话号码为 4000015525
+- [x] 修复 TypeScript 配置兼容性问题
+- [x] 更新代码到 GitHub
+- [x] 重新部署到 Netlify
+
+### Deployment (Version 42-43)
 - [x] Successfully deployed to Netlify
 - [x] Updated Next.js to 16.1.1
 - [x] Configured static export for deployment
@@ -34,6 +41,7 @@
 - Performance optimized
 - PWA support
 - Deployed to production
+- Phone number: 4000015525
 
 ## Optional Future Enhancements
 - [ ] Connect custom domain

@@ -3,10 +3,11 @@
 
 [build]
   command = "bun run build"
-  publish = ".next"
+  publish = "out"
 
 [build.environment]
   NODE_VERSION = "20"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
+# 静态站点部署 - 不需要 Next.js 插件
+# [[plugins]]
+#   package = "@netlify/plugin-nextjs"
