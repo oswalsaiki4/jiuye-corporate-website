@@ -163,7 +163,7 @@ const jsonLd = {
   },
   contactPoint: {
     "@type": "ContactPoint",
-    telephone: "4000015525",
+    telephone: "400 001 5525",
     email: "business@jiuye.ai",
     contactType: "customer service",
     availableLanguage: ["Chinese", "English"],

@@ -57,7 +57,7 @@ export function CTASection() {
                   </div>
                   <div>
                     <p className="text-xs sm:text-sm text-zinc-500">咨询热线</p>
-                    <p className="text-sm sm:text-lg font-medium text-white">4000015525</p>
+                    <p className="text-sm sm:text-lg font-medium text-white">400 001 5525</p>
                   </div>
                 </div>
               </div>
